@@ -1,0 +1,27 @@
+{
+    "trainers": [
+        {
+            "trainerId": 1992,
+            "name": "Ishwar",
+            "technology": "Python",
+            "active": true
+        },
+        {
+            "trainerId": 1855,
+            "name": "Karan Thakur",
+            "technology": "Python",
+            "active": true
+        }
+    ],
+    "trainees": [
+        {
+            "traineeId": 23414,
+            "name": "Sabita",
+            "technology": "Python",
+            "email": "sabita@gmail.com",
+            "joining_data": "Oct/18/2022",
+            "duration": 1,
+            "active": true
+        }
+    ]
+}
