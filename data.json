@@ -22,6 +22,43 @@
             "joining_data": "Oct/18/2022",
             "duration": 1,
             "active": true
+        },
+        {
+            "traineeId": 23415,
+            "name": "Karan",
+            "technology": "Python",
+            "email": "karan@gmail.com",
+            "joining_data": "Oct/18/2022",
+            "duration": 1,
+            "active": true
+        },
+        {
+            "traineeId": 23416,
+            "name": "Pankaj",
+            "technology": "Python",
+            "email": "pankaj@gmail.com",
+            "joining_data": "Oct/18/2022",
+            "duration": 1,
+            "active": true
+        },
+        {
+            "traineeId": 23417,
+            "name": "Pankaj",
+            "technology": "Python",
+            "email": "pankaj@gmail.com",
+            "joining_data": "Oct/18/2022",
+            "duration": 1,
+            "active": true
+        },
+        {
+            "traineeId": 23418,
+            "name": "rishabh",
+            "technology": "Python",
+            "email": "rishabh@gmail.com",
+            "joining_data": "Oct/18/2022",
+            "duration": 1,
+            "active": true
         }
     ]
 }
+
