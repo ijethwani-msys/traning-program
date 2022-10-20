@@ -65,7 +65,7 @@ class Asignment(Institute):
         print(final_trainee_list)
 
         
-[{'id': 1992, 'trainee_id_list': [23414, 23418, 23422, 23425]}, {'id': 1855, 'trainee_id_list': [23414, 23418, 23422, 23425]}, {'id': 1856, 
+[{'id': 1992, 'trainee_id_list': [23414, 23418, 23422, 23426]}, {'id': 1855, 'trainee_id_list': [23414, 23418, 23422, 23425]}, {'id': 1856, 
 'trainee_id_list': [23416, 23420, 23424]}, {'id': 1857, 'trainee_id_list': [23417, 23421, 23425]}]
 
 
