@@ -1,0 +1,187 @@
+[
+    {
+        "id": {
+            "trainerId": 1992,
+            "name": "Ishwar",
+            "technology": "Python",
+            "active": true
+        },
+        "trainee_list0": [
+            {
+                "traineeId": 23414,
+                "name": "Sabita",
+                "technology": "Python",
+                "email": "sabita@gmail.com",
+                "joining_data": "Oct/18/2022",
+                "duration": 1,
+                "active": true
+            },
+            {
+                "traineeId": 23419,
+                "name": "rishabh",
+                "technology": "Python",
+                "email": "rishabh@gmail.com",
+                "joining_data": "Oct/18/2022",
+                "duration": 1,
+                "active": true
+            },
+            {
+                "traineeId": 23424,
+                "name": "rishabh",
+                "technology": "Python",
+                "email": "rishabh@gmail.com",
+                "joining_data": "Oct/18/2022",
+                "duration": 1,
+                "active": true
+            }
+        ]
+    },
+    {
+        "id": {
+            "trainerId": 1855,
+            "name": "Karan Thakur",
+            "technology": "Python",
+            "active": true
+        },
+        "trainee_list1": [
+            {
+                "traineeId": 23415,
+                "name": "Karan",
+                "technology": "Python",
+                "email": "karan@gmail.com",
+                "joining_data": "Oct/18/2022",
+                "duration": 1,
+                "active": true
+            },
+            {
+                "traineeId": 23420,
+                "name": "rishabh",
+                "technology": "Python",
+                "email": "rishabh@gmail.com",
+                "joining_data": "Oct/18/2022",
+                "duration": 1,
+                "active": true
+            },
+            {
+                "traineeId": 23425,
+                "name": "rishabh",
+                "technology": "Python",
+                "email": "rishabh@gmail.com",
+                "joining_data": "Oct/18/2022",
+                "duration": 1,
+                "active": true
+            }
+        ]
+    },
+    {
+        "id": {
+            "trainerId": 1856,
+            "name": "Karan Parihar",
+            "technology": "Python",
+            "active": true
+        },
+        "trainee_list2": [
+            {
+                "traineeId": 23416,
+                "name": "Pankaj",
+                "technology": "Python",
+                "email": "pankaj@gmail.com",
+                "joining_data": "Oct/18/2022",
+                "duration": 1,
+                "active": true
+            },
+            {
+                "traineeId": 23421,
+                "name": "rishabh",
+                "technology": "Python",
+                "email": "rishabh@gmail.com",
+                "joining_data": "Oct/18/2022",
+                "duration": 1,
+                "active": true
+            },
+            {
+                "traineeId": 23426,
+                "name": "rishabh",
+                "technology": "Python",
+                "email": "rishabh@gmail.com",
+                "joining_data": "Oct/18/2022",
+                "duration": 1,
+                "active": true
+            }
+        ]
+    },
+    {
+        "id": {
+            "trainerId": 1857,
+            "name": "Vishal Thakur",
+            "technology": "Python",
+            "active": true
+        },
+        "trainee_list3": [
+            {
+                "traineeId": 23417,
+                "name": "Pankaj",
+                "technology": "Python",
+                "email": "pankaj@gmail.com",
+                "joining_data": "Oct/18/2022",
+                "duration": 1,
+                "active": true
+            },
+            {
+                "traineeId": 23422,
+                "name": "rishabh",
+                "technology": "Python",
+                "email": "rishabh@gmail.com",
+                "joining_data": "Oct/18/2022",
+                "duration": 1,
+                "active": true
+            },
+            {
+                "traineeId": 23427,
+                "name": "rishabh",
+                "technology": "Python",
+                "email": "rishabh@gmail.com",
+                "joining_data": "Oct/18/2022",
+                "duration": 1,
+                "active": true
+            }
+        ]
+    },
+    {
+        "id": {
+            "trainerId": 1858,
+            "name": "Vishal Thakur",
+            "technology": "Python",
+            "active": true
+        },
+        "trainee_list4": [
+            {
+                "traineeId": 23418,
+                "name": "rishabh",
+                "technology": "Python",
+                "email": "rishabh@gmail.com",
+                "joining_data": "Oct/18/2022",
+                "duration": 1,
+                "active": true
+            },
+            {
+                "traineeId": 23423,
+                "name": "rishabh",
+                "technology": "Python",
+                "email": "rishabh@gmail.com",
+                "joining_data": "Oct/18/2022",
+                "duration": 1,
+                "active": true
+            },
+            {
+                "traineeId": 23428,
+                "name": "rishabh",
+                "technology": "Python",
+                "email": "rishabh@gmail.com",
+                "joining_data": "Oct/18/2022",
+                "duration": 1,
+                "active": true
+            }
+        ]
+    }
+]

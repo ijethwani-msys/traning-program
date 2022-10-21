@@ -23,6 +23,12 @@
             "name": "Vishal Thakur",
             "technology": "Python",
             "active": true
+        },
+        {
+            "trainerId": 1858,
+            "name": "Vishal Thakur",
+            "technology": "Python",
+            "active": true
         }
     ],
     "trainees": [
@@ -136,6 +142,24 @@
         },
         {
             "traineeId": 23426,
+            "name": "rishabh",
+            "technology": "Python",
+            "email": "rishabh@gmail.com",
+            "joining_data": "Oct/18/2022",
+            "duration": 1,
+            "active": true
+        },
+        {
+            "traineeId": 23427,
+            "name": "rishabh",
+            "technology": "Python",
+            "email": "rishabh@gmail.com",
+            "joining_data": "Oct/18/2022",
+            "duration": 1,
+            "active": true
+        },
+        {
+            "traineeId": 23428,
             "name": "rishabh",
             "technology": "Python",
             "email": "rishabh@gmail.com",
