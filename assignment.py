@@ -1,3 +1,4 @@
+from datetime import datetime
 import json
 from institute import Institute
 class Asignment(Institute):
@@ -26,7 +27,44 @@ class Asignment(Institute):
             final_trainee_list.append(data_dict)
 
             count+=1
-        with open("asingment.json","w") as file:
+        with open("asingment.json","w",encoding="utf-8") as file:
             data = json.dumps(final_trainee_list)
             file.write(data)
         return print("Trainee Asigned Sucessfully")
+
+    def give_asignement(self,trainer_id,asingment_title,asignment_description,submit_date,points):
+        with open("asingment.json","r",encoding="utf-8") as file:
+            data = json.loads(file.read())
+            for object in data:
+                for key in object:
+                    if "trainerId" in object[key]:
+                        if object[key]["trainerId"]==int(trainer_id):
+                            object["asingment"]={"asignment_title":asingment_title,"asignment_description":asignment_description,"points":points,"last_date_for_submition":submit_date,"start_date":datetime.today().strftime("%d/%b/%Y")}
+                            print("Asingment Alloted Sucessfully!")
+                        else:
+                            print("not found")
+                        
+                
+                            
+                        
+ 
+    
+
+
+                        
+
+
+                      
+
+
+
+
+
+
+
+obj = Asignment()
+obj.give_asignement("1855")             
+                    
+
+                
+
